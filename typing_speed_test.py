@@ -1,4 +1,4 @@
-# follow me on twitter @PY4ALL
+
 
 from tkinter import *
 from tkinter import ttk
